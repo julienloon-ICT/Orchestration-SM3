@@ -1,0 +1,9 @@
+.env
+*/node_modules
+*/*/node_modules
+*/dist
+*/Logo's
+*.txt
+test.ps1
+test1.ps1
+*/data
